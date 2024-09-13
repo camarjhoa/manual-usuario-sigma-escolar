@@ -7,6 +7,8 @@
 ## Indice
 * [Acceso al Sistema](#acceso-al-sistema)
 * [Módulo Directivo](#módulo-directivo)
+* [Menú Estudiantes](#menú-estudiantes)
+* [Menú Académico](#menú-académico)
 
 
 
@@ -49,7 +51,7 @@ Desde esta opción podrá consultar a cualquier estudiante tan solo ingresando s
 
 <hr>
 
-### Búsqueda Por Nombres
+### Búsqueda Por Nombres:
 Aquí podrár buscar a cualquier estudiante por nombres o apellidos, inclusive ambos criterios. Tenga en cuenta que los resultados se apegan a la forma en cómo escriba los criterios de búsqueda. Se tiene previsto agregar la función buscar por ***Año y Sección***.
 
 <hr>
@@ -58,6 +60,8 @@ Aquí podrár buscar a cualquier estudiante por nombres o apellidos, inclusive a
 
 
 <hr>
+
+## Menú Académico:
 
 ### Pre-Inscripción:
 Este apartado le permite agregar Nuevos Ingresos a la Institución, bien sea aquellos estudiantes ***a Cursar 1° Año en cualquiera de los Planes de Estudio vigentes***, así como también Estudiantes provenientes de otras instituciones, con la consabida generación automática de la ***"Carta de Aceptación"*** para formalizar retiro en la institución de origen. Esta opción, no significa que el estudiante está inscrito; sólo pre-carga en el sistema el documento de identificación del estudiante. El proceso de inscripción se concreta en las jornadas de inscripción establecidas en la institución o en su defecto directamente con el Coordinador de Año y Turno al cual se designará al Estudiante o de acuerdo al criterio de los Coordinadores de ese año de ambos turnos.
@@ -89,10 +93,14 @@ Este apartado le permite descargar las Nóminas Constituidas por cada Coordinado
 
 <hr>
 
-### Estadísticas 
+## Menú Administrativo:
+
+### Estadísticas:
+Desde aquí podrá visualizar la matrícula final de cada Año Escolar, la cual se presentará de manera general, así como también detallada para escolaridades anteriores. Sólo deberá pinchar el Botón **"Estadísticas Anteriores"** y posteriormente seleccionar la Escolaridad a Consultar. Para Generar una Nueva Estadística de Matrícula Final, deberá hacer click en el Botón **Agregar Estadística**. Estará activo sólo antes de iniciar los procesos de inscripción para la venidera escolaridad, la cual usted deberá definir en el Menú respectivo (aún no activo).
+
+<hr>
 
 [![estadisticas.png](https://i.postimg.cc/hG1dhbTK/estadisticas.png)](https://postimg.cc/rdzmP4fH)
-
 
 <hr>
 
