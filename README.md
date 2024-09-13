@@ -100,9 +100,26 @@ Al iniciar el Módulo se presente la siguiente pantalla donde podrá visualizar 
 [![cargar-zonificados.png](https://i.postimg.cc/pLYTBVTZ/cargar-zonificados.png)](https://postimg.cc/tsJpqjFZ)
 
 
-
+<hr>
 
 ## Corregir Modalidad
 
+[![corregir-modalidad.png](https://i.postimg.cc/GmrYR5TX/corregir-modalidad.png)](https://postimg.cc/qzbgXQLK)
+
+
+<hr>
+
+
+## Corregir Cédula
+
+[![corregir-cedula.png](https://i.postimg.cc/fbq0xW2P/corregir-cedula.png)](https://postimg.cc/KKLzbby7)}
+
+
+<hr>
+
+
+## Dirección IP
+
+[![direccion-ip.png](https://i.postimg.cc/mksZ90sq/direccion-ip.png)](https://postimg.cc/N9dwqCL7)
 
 
