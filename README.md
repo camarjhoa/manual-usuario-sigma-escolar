@@ -39,7 +39,7 @@ Al iniciar el Módulo se presente la siguiente pantalla donde podrá visualizar 
 <hr>
 
 
-Consultar Estudiantes
+## Consultar Estudiantes
 [![consultar-estudiante.png](https://i.postimg.cc/qRFWKnH5/consultar-estudiante.png)](https://postimg.cc/DJqCkSZr)
 
 
@@ -73,8 +73,36 @@ Consultar Estudiantes
 [![descargar-nominas.png](https://i.postimg.cc/YqTgPStB/descargar-nominas.png)](https://postimg.cc/CzHzBSZc)
 
 
+<hr>
 
-Esto es un cambio
+## Estadísticas 
+
+[![estadisticas.png](https://i.postimg.cc/hG1dhbTK/estadisticas.png)](https://postimg.cc/rdzmP4fH)
+
+
+<hr>
+
+## Delegar Funciones
+
+[![delegar-funciones.png](https://i.postimg.cc/bJFd26Jf/delegar-funciones.png)](https://postimg.cc/DJL79PLx)
+
+<hr>
+
+## Mostrar Delegados
+
+[![mostrar-delegados.png](https://i.postimg.cc/DwK0s420/mostrar-delegados.png)](https://postimg.cc/jLZRY5nY)
+
+<hr>
+
+## Cargar Zonificados
+
+
+[![cargar-zonificados.png](https://i.postimg.cc/pLYTBVTZ/cargar-zonificados.png)](https://postimg.cc/tsJpqjFZ)
+
+
+
+
+## Corregir Modalidad
 
 
 
