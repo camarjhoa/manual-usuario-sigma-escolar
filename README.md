@@ -6,7 +6,7 @@
 
 ## Indice
 * [Acceso al Sistema](#acceso-al-sistema)
-
+* [Módulo Directivo](#modulo-directivo)
 
 
 
@@ -38,8 +38,9 @@ Al iniciar el Módulo se presente la siguiente pantalla donde podrá visualizar 
 
 <hr>
 
+## Menú Estudiantes:
 
-## Consultar Estudiantes
+### Consultar Estudiantes:
 Desde esta opción podrá consultar a cualquier estudiante tan solo ingresando su número de Cédula Laminada o Cédula Escolar del Estudiante. Al realizar la consulta permitirá conocer el estatus actual del mismo, así como también tendrá acceso a diversas opciones asociadas.
 
 <hr>
@@ -48,37 +49,47 @@ Desde esta opción podrá consultar a cualquier estudiante tan solo ingresando s
 
 <hr>
 
-## Búsqueda Por Nombres
+### Búsqueda Por Nombres
+Aquí podrár buscar a cualquier estudiante por nombres o apellidos, inclusive ambos criterios. Tenga en cuenta que los resultados se apegan a la forma en cómo escriba los criterios de búsqueda. Se tiene previsto agregar la función buscar por ***Año y Sección***.
+
+<hr>
+
 [![busqueda-por-nombres.png](https://i.postimg.cc/jjpFdTHp/busqueda-por-nombres.png)](https://postimg.cc/XZg8QTDL)
 
 
 <hr>
 
-## Pre-inscripción
+### Pre-Inscripción:
+Este apartado le permite agregar Nuevos Ingresos a la Institución, bien sea aquellos estudiantes ***a Cursar 1° Año en cualquiera de los Planes de Estudio vigentes***, así como también Estudiantes provenientes de otras instituciones, con la consabida generación automática de la ***"Carta de Aceptación"*** para formalizar retiro en la institución de origen. Esta opción, no significa que el estudiante está inscrito; sólo pre-carga en el sistema el documento de identificación del estudiante. El proceso de inscripción se concreta en las jornadas de inscripción establecidas en la institución o en su defecto directamente con el Coordinador de Año y Turno al cual se designará al Estudiante o de acuerdo al criterio de los Coordinadores de ese año de ambos turnos.
+
+<hr>
 
 [![pre-inscripcion.png](https://i.postimg.cc/jjpFdTHp/pre-inscripcion.png)](https://postimg.cc/XZg8QTDL)
 
 <hr>
 
 
-## Resumen Secciones
+### Resumen de Secciones:
+Desde aquí podrá consultar las secciones conformadas por cada Coordinación, tanto en sus turnos ***MAÑANA Y TARDE***, entendiendo que los turnos de la ***MAÑANA*** está conformado por las Secciones: **A, B, C y D** y los turnos de la ***TARDE*** está compuesto por las Secciones: **E, F, G y H**. Para ello, sólo deberá seleccionar el Año a Consultar y presionar el Botón **Consultar**.
 
+<hr>
 
 [![resumen-secciones.png](https://i.postimg.cc/D0Msnvss/resumen-secciones.png)](https://postimg.cc/1VD4KZv5)
 
+[![ejemplo-resumen-seccion.png](https://i.postimg.cc/XvXDs7W5/ejemplo-resumen-seccion.png)](https://postimg.cc/bGcTJPsY)
 
 <hr>
 
-
-## Descargar Nóminas
-
+### Descargar Nóminas:
+Este apartado le permite descargar las Nóminas Constituidas por cada Coordinador de Año y Turno, lo cual significa que para poder descargar las mismas deben haber sido primero creadas por el Coordinador respectivo. Si al momento de descargarlas, aparece un mensaje señalando alguna condición. Deberá comunicarse con el Coordinador para conocer los motivos del por qué no ha generado la Nómina para la Escolaridad Activa. Todas las actualizaciones de Nómina aparecerán en la bandeja de Notificaciones de su Sistema (aún no disponible). Igualmente podrá corroborarlo desde el Menú Auditoría (aún no disponible).
 
 [![descargar-nominas.png](https://i.postimg.cc/YqTgPStB/descargar-nominas.png)](https://postimg.cc/CzHzBSZc)
 
+[![error-no-generacion-nomina.png](https://i.postimg.cc/Y0pb5pgM/error-no-generacion-nomina.png)](https://postimg.cc/G85FYnq5)
 
 <hr>
 
-## Estadísticas 
+### Estadísticas 
 
 [![estadisticas.png](https://i.postimg.cc/hG1dhbTK/estadisticas.png)](https://postimg.cc/rdzmP4fH)
 
