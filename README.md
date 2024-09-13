@@ -40,8 +40,11 @@ Al iniciar el Módulo se presente la siguiente pantalla donde podrá visualizar 
 
 
 ## Consultar Estudiantes
-[![consultar-estudiante.png](https://i.postimg.cc/qRFWKnH5/consultar-estudiante.png)](https://postimg.cc/DJqCkSZr)
+Desde esta opción podrá consultar a cualquier estudiante tan solo ingresando su número de Cédula Laminada o Cédula Escolar del Estudiante. Al realizar la consulta permitirá conocer el estatus actual del mismo, así como también tendrá acceso a diversas opciones asociadas.
 
+<hr>
+
+[![consultar-estudiante.png](https://i.postimg.cc/qRFWKnH5/consultar-estudiante.png)](https://postimg.cc/DJqCkSZr)
 
 <hr>
 
