@@ -49,7 +49,11 @@ Consultar Estudiantes
 [![busqueda-por-nombres.png](https://i.postimg.cc/jjpFdTHp/busqueda-por-nombres.png)](https://postimg.cc/XZg8QTDL)
 
 
+<hr>
 
+##Pre-inscripccion
+
+[![busqueda-por-nombres.png](https://i.postimg.cc/jjpFdTHp/busqueda-por-nombres.png)](https://postimg.cc/XZg8QTDL)
 
 
 
