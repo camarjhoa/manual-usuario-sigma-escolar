@@ -39,4 +39,11 @@ Al iniciar el Módulo se presente la siguiente pantalla donde podrá visualizar 
 <hr>
 
 
+Consultar Estudiantes
+[![consultar-estudiante.png](https://i.postimg.cc/qRFWKnH5/consultar-estudiante.png)](https://postimg.cc/DJqCkSZr)
+
+<hr>
+
+
+
 
