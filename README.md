@@ -112,7 +112,7 @@ Al iniciar el Módulo se presente la siguiente pantalla donde podrá visualizar 
 
 ## Corregir Cédula
 
-[![corregir-cedula.png](https://i.postimg.cc/fbq0xW2P/corregir-cedula.png)](https://postimg.cc/KKLzbby7)}
+[![corregir-cedula.png](https://i.postimg.cc/fbq0xW2P/corregir-cedula.png)](https://postimg.cc/KKLzbby7)
 
 
 <hr>
