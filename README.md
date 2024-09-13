@@ -51,11 +51,26 @@ Consultar Estudiantes
 
 <hr>
 
-##Pre-inscripccion
+## Pre-inscripción
 
-[![busqueda-por-nombres.png](https://i.postimg.cc/jjpFdTHp/busqueda-por-nombres.png)](https://postimg.cc/XZg8QTDL)
+[![pre-inscripcion.png](https://i.postimg.cc/jjpFdTHp/pre-inscripcion.png)](https://postimg.cc/XZg8QTDL)
+
+<hr>
 
 
+## Resumen Secciones
+
+
+[![resumen-secciones.png](https://i.postimg.cc/D0Msnvss/resumen-secciones.png)](https://postimg.cc/1VD4KZv5)
+
+
+<hr>
+
+
+## Descargar Nóminas
+
+
+[![descargar-nominas.png](https://i.postimg.cc/YqTgPStB/descargar-nominas.png)](https://postimg.cc/CzHzBSZc)
 
 
 
