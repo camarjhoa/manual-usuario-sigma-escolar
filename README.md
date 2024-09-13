@@ -43,6 +43,16 @@ Consultar Estudiantes
 [![consultar-estudiante.png](https://i.postimg.cc/qRFWKnH5/consultar-estudiante.png)](https://postimg.cc/DJqCkSZr)
 
 <hr>
+Búsqueda Por Nombres
+[![busqueda-por-nombres.png](https://i.postimg.cc/jjpFdTHp/busqueda-por-nombres.png)](https://postimg.cc/XZg8QTDL)
+
+
+<hr>
+
+
+
+
+
 
 Esto es un cambio
 
