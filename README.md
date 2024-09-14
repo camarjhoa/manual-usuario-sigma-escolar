@@ -9,6 +9,7 @@
 * [Módulo Directivo](#módulo-directivo)
 * [Menú Estudiantes](#menú-estudiantes)
 * [Menú Académico](#menú-académico)
+* [Menú Administrativo](#menú-administrativo)
 
 
 
@@ -161,6 +162,9 @@ Desde aquí podrá cargar un archivo del tipo de hoja de cálculo (Excel o Calc)
 [![cargar-zonificados.png](https://i.postimg.cc/pLYTBVTZ/cargar-zonificados.png)](https://postimg.cc/tsJpqjFZ)
 
 <hr>
+<br>
+
+[Regresar al Índice](#indice)
 
 ## Menú Técnico:
 
