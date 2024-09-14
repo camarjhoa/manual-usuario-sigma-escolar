@@ -70,6 +70,7 @@ Aquí podrár buscar a cualquier estudiante por nombres o apellidos, inclusive a
 ## Menú Académico:
 
 <hr>
+
 [![menu-academico.png](https://i.postimg.cc/rmFfqs4h/menu-academico.png)](https://postimg.cc/sBqYcVwS)
 
 <hr>
@@ -121,44 +122,73 @@ Desde aquí podrá visualizar la matrícula final de cada Año Escolar, la cual 
 
 <hr>
 
-## Delegar Funciones
+### Delegar Funciones:
+Se utiliza cuando el Director(a) en Funciones considera que para aligerar la carga de trabajo en el sistema debe apoyarse en personal directivo que asuma ciertas funciones, por lo que desde aquí podrá delegar funciones como: 
+
+* Cargar Estudiantes Zonificados.
+* Agregar Nuevos Estudiantes de Prosecución.
+* Corregir Cédulas Escolar o Cédulas Laminadas de estudiantes activos o por renovar inscripción.
+
+Por lo tanto deberá seleccionar el o los Subdirectores Activos en Sistema, funciones a delegar y la fecha de inicio y culminación de estas asignaciones. Al ser de carácter temporal, no significa renunciar a las mismas, ya que puede hacerlas a la par del funcionario delegado o inclusive revocar al Delegado antes de llegado el plazo establecido inicialmente.
+
+<hr>
 
 [![delegar-funciones.png](https://i.postimg.cc/bJFd26Jf/delegar-funciones.png)](https://postimg.cc/DJL79PLx)
 
 <hr>
 
-## Mostrar Delegados
+### Mostrar Delegados:
+Desde acá podrá mostrar el listado de Delegados Activos o Inactivos (Revocados) si los hubiere, todo con el propósito de hacer seguimiento a cada uno de estos proceso sensibles.
+
+<hr>
 
 [![mostrar-delegados.png](https://i.postimg.cc/DwK0s420/mostrar-delegados.png)](https://postimg.cc/jLZRY5nY)
 
 <hr>
 
-## Cargar Zonificados
+### Cargar Zonificados:
+Desde aquí podrá cargar un archivo del tipo de hoja de cálculo (Excel o Calc) contentivo de la data de todos los **Estudiantes de 1° Año** que han sido Zonificados para la Institución. Este archivo deberá contener toda la información escrita en ***MAYÚSCULA SOSTENIDA*** en cada uno de los campos y el campo **"Cédula"** no deberá contener ni puntos o espacios. Para ello, pinchará el botón ***Elegir archivo***, buscar la ruta donde esté el archivo con la zonificación y seleccionarlo. Posteriormente pinchará el ***Checkbox Activar Botón*** y finalmente pulsar el Botón ***Cargar Zonificados***. Posteriormente aparecerá en pantalla un resumen de cada estudiante si fue procesado o no en la Base de Datos institucional.
 
+<hr>
 
 [![cargar-zonificados.png](https://i.postimg.cc/pLYTBVTZ/cargar-zonificados.png)](https://postimg.cc/tsJpqjFZ)
 
+<hr>
+
+## Menú Técnico:
 
 <hr>
 
-## Corregir Modalidad
+[![menu-tecnico.png](https://i.postimg.cc/dtbvDP4R/menu-tecnico.png)](https://postimg.cc/YhzTyVcj)
+
+<hr>
+
+### Corregir Modalidad:
+Aplica temporalmente para aquellos estudiantes que están en algún tipo de transición académica como por ejemplo cambios a: Estudiantes Regulares, Estudiantes Repitientes o Estudiantes con Materia Pendiente.
+
+<hr>
 
 [![corregir-modalidad.png](https://i.postimg.cc/GmrYR5TX/corregir-modalidad.png)](https://postimg.cc/qzbgXQLK)
 
+[![corregir-modalidad-casos.png](https://i.postimg.cc/GtZ2cB4G/corregir-modalidad-casos.png)](https://postimg.cc/64fwcpLp)
 
 <hr>
 
 
-## Corregir Cédula
+### Corregir Cédula:
+Aplicable para aquellos casos donde deba ser modificada el Número de Cédula Escolar o Cédula Laminada de los Estudiantes, así como también para aquellos estudiantes que presentan su ***Cédula Laminada*** y aún aparecen con Cédula Escolar. Estos cambios deben hacerse con evidencia de la Cédula Laminada dentro del Expediente Estudiantil, así como también realizarlo con la previsión y el cuidado necesarios, ya que estos cambios surten efectos de reemplazo en todas las Tablas de la Base de Datos asociadas al identificador anterior de ese Estudiante. 
+
+<hr>
 
 [![corregir-cedula.png](https://i.postimg.cc/fbq0xW2P/corregir-cedula.png)](https://postimg.cc/KKLzbby7)
-
+[![cedula-corregir-caso.png](https://i.postimg.cc/Z5zR2dth/cedula-corregir-caso.png)](https://postimg.cc/9r1CqzQx)
 
 <hr>
 
 
 ## Dirección IP
+Esta opción se utiliza sólo cuando se activan los procesos de inscripción, ya que como garantía de tomar datos precisos y asegurar que estos procesos se lleven a cabo dentro de la institución, El Director debe validar y autorizar que el **Módulo de Inscripciones** se aperture desde la propia institución, por lo que se validará la dirección IP que rige a la red dentro del Plantel. Para ello, solo deberá hacer click en la dirección: ***https://www.cual-es-mi-ip.net/*** y copiar el valor que arroje (es distinto para cada red). Con este valor en el portapapeles pegarlo
 
 [![direccion-ip.png](https://i.postimg.cc/mksZ90sq/direccion-ip.png)](https://postimg.cc/N9dwqCL7)
 
-
+[![mi-ip-valor.png](https://i.postimg.cc/fbK1Z6Vv/mi-ip-valor.png)](https://postimg.cc/3yktFfCy)
