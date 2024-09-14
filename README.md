@@ -42,6 +42,12 @@ Al iniciar el Módulo se presente la siguiente pantalla donde podrá visualizar 
 
 ## Menú Estudiantes:
 
+<hr>
+
+[![menu-estudiantes.png](https://i.postimg.cc/dVrHBzv9/menu-estudiantes.png)](https://postimg.cc/VJsWsZJS)
+
+<hr>
+
 ### Consultar Estudiantes:
 Desde esta opción podrá consultar a cualquier estudiante tan solo ingresando su número de Cédula Laminada o Cédula Escolar del Estudiante. Al realizar la consulta permitirá conocer el estatus actual del mismo, así como también tendrá acceso a diversas opciones asociadas.
 
@@ -62,6 +68,11 @@ Aquí podrár buscar a cualquier estudiante por nombres o apellidos, inclusive a
 <hr>
 
 ## Menú Académico:
+
+<hr>
+[![menu-academico.png](https://i.postimg.cc/rmFfqs4h/menu-academico.png)](https://postimg.cc/sBqYcVwS)
+
+<hr>
 
 ### Pre-Inscripción:
 Este apartado le permite agregar Nuevos Ingresos a la Institución, bien sea aquellos estudiantes ***a Cursar 1° Año en cualquiera de los Planes de Estudio vigentes***, así como también Estudiantes provenientes de otras instituciones, con la consabida generación automática de la ***"Carta de Aceptación"*** para formalizar retiro en la institución de origen. Esta opción, no significa que el estudiante está inscrito; sólo pre-carga en el sistema el documento de identificación del estudiante. El proceso de inscripción se concreta en las jornadas de inscripción establecidas en la institución o en su defecto directamente con el Coordinador de Año y Turno al cual se designará al Estudiante o de acuerdo al criterio de los Coordinadores de ese año de ambos turnos.
@@ -94,6 +105,12 @@ Este apartado le permite descargar las Nóminas Constituidas por cada Coordinado
 <hr>
 
 ## Menú Administrativo:
+
+<hr>
+
+[![menu-administrativo.png](https://i.postimg.cc/XqrxyPQd/menu-administrativo.png)](https://postimg.cc/hQqVk2Ft)
+
+<hr>
 
 ### Estadísticas:
 Desde aquí podrá visualizar la matrícula final de cada Año Escolar, la cual se presentará de manera general, así como también detallada para escolaridades anteriores. Sólo deberá pinchar el Botón **"Estadísticas Anteriores"** y posteriormente seleccionar la Escolaridad a Consultar. Para Generar una Nueva Estadística de Matrícula Final, deberá hacer click en el Botón **Agregar Estadística**. Estará activo sólo antes de iniciar los procesos de inscripción para la venidera escolaridad, la cual usted deberá definir en el Menú respectivo (aún no activo).
