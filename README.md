@@ -7,8 +7,8 @@
 ## Indice
 * [Acceso al Sistema](#acceso-al-sistema)
 * [Módulo Directivo](#módulo-directivo)
-   [Menú Estudiantes](#menú-estudiantes)
-   [Menú Académico](#menú-académico)
+* [Menú Estudiantes](#menú-estudiantes)
+* [Menú Académico](#menú-académico)
 
 
 
@@ -68,7 +68,7 @@ Aquí podrár buscar a cualquier estudiante por nombres o apellidos, inclusive a
 <hr>
 <br>
 
-[Volvr al ïndice](#indice)
+[Regresar al Índice](#indice)
 
 ## Menú Académico:
 
@@ -108,6 +108,9 @@ Este apartado le permite descargar las Nóminas Constituidas por cada Coordinado
 [![error-no-generacion-nomina.png](https://i.postimg.cc/Y0pb5pgM/error-no-generacion-nomina.png)](https://postimg.cc/G85FYnq5)
 
 <hr>
+<br>
+
+[Regresar al Índice](#indice)
 
 ## Menú Administrativo:
 
