@@ -10,6 +10,7 @@
 * [Menú Estudiantes](#menú-estudiantes)
 * [Menú Académico](#menú-académico)
 * [Menú Administrativo](#menú-administrativo)
+* [Menú Técnico](#menú-tecnico)
 
 
 
@@ -199,7 +200,14 @@ Aplicable para aquellos casos donde deba ser modificada el Número de Cédula Es
 
 ## Dirección IP
 Esta opción se utiliza sólo cuando se activan los procesos de inscripción, ya que como garantía de tomar datos precisos y asegurar que estos procesos se lleven a cabo dentro de la institución, El Director debe validar y autorizar que el **Módulo de Inscripciones** se aperture desde la propia institución, por lo que se validará la dirección IP que rige a la red dentro del Plantel. Para ello, solo deberá hacer click en la dirección: ***https://www.cual-es-mi-ip.net/*** y copiar el valor que arroje (es distinto para cada red). Con este valor en el portapapeles pegarlo
+<hr>
 
 [![direccion-ip.png](https://i.postimg.cc/mksZ90sq/direccion-ip.png)](https://postimg.cc/N9dwqCL7)
 
 [![mi-ip-valor.png](https://i.postimg.cc/fbK1Z6Vv/mi-ip-valor.png)](https://postimg.cc/3yktFfCy)
+
+<hr>
+<br>
+
+[Regresar al Índice](#indice)
+
