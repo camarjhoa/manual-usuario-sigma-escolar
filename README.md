@@ -7,8 +7,8 @@
 ## Indice
 * [Acceso al Sistema](#acceso-al-sistema)
 * [Módulo Directivo](#módulo-directivo)
-* [Menú Estudiantes](#menú-estudiantes)
-* [Menú Académico](#menú-académico)
+   [Menú Estudiantes](#menú-estudiantes)
+   [Menú Académico](#menú-académico)
 
 
 
@@ -66,8 +66,12 @@ Aquí podrár buscar a cualquier estudiante por nombres o apellidos, inclusive a
 
 
 <hr>
+<br>
+
+[Volvr al ïndice](#indice)
 
 ## Menú Académico:
+
 
 <hr>
 
