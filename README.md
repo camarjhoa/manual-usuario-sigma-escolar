@@ -10,7 +10,7 @@
 * [Menú Estudiantes](#menú-estudiantes)
 * [Menú Académico](#menú-académico)
 * [Menú Administrativo](#menú-administrativo)
-* [Menú Técnico](#menú-tecnico)
+* [Menú Técnico](#menú-técnico)
 
 
 
