@@ -51,7 +51,7 @@ Al iniciar el Módulo se presente la siguiente pantalla donde podrá visualizar 
 <hr>
 
 ### Consultar Estudiantes:
-Desde esta opción podrá consultar a cualquier estudiante tan solo ingresando su número de Cédula Laminada o Cédula Escolar del Estudiante. Al realizar la consulta permitirá conocer el estatus actual del mismo, así como también tendrá acceso a diversas opciones asociadas.
+Desde esta opción podrá consultar a cualquier estudiante tan solo ingresando el número de Cédula Laminada o Cédula Escolar del Estudiante. Al realizar la consulta permitirá conocer el estatus actual del mismo, así como también tendrá acceso a diversas opciones asociadas.
 
 <hr>
 
@@ -82,7 +82,7 @@ Aquí podrár buscar a cualquier estudiante por nombres o apellidos, inclusive a
 <hr>
 
 ### Pre-Inscripción:
-Este apartado le permite agregar Nuevos Ingresos a la Institución, bien sea aquellos estudiantes ***a Cursar 1° Año en cualquiera de los Planes de Estudio vigentes***, así como también Estudiantes provenientes de otras instituciones, con la consabida generación automática de la ***"Carta de Aceptación"*** para formalizar retiro en la institución de origen. Esta opción, no significa que el estudiante está inscrito; sólo pre-carga en el sistema el documento de identificación del estudiante. El proceso de inscripción se concreta en las jornadas de inscripción establecidas en la institución o en su defecto directamente con el Coordinador de Año y Turno al cual se designará al Estudiante o de acuerdo al criterio de los Coordinadores de ese año de ambos turnos.
+Este apartado le permite agregar Nuevos Ingresos a la Institución, bien sea aquellos estudiantes ***a Cursar 1° Año en cualquiera de los Planes de Estudio vigentes***, así como también Estudiantes provenientes de otras instituciones, con la consabida generación automática de la ***"Carta de Aceptación"*** para formalizar retiro en la institución de origen. Esta opción, no significa que el estudiante está inscrito; sólo pre-carga en el sistema el documento de identificación del estudiante. El proceso de inscripción se concreta en las jornadas de inscripción establecidas en la institución o en su defecto directamente con el Coordinador de Año y Turno responsable al cual se designará al Estudiante o de acuerdo al criterio de los Coordinadores de ese año de ambos turnos.
 
 <hr>
 
@@ -136,7 +136,7 @@ Se utiliza cuando el Director(a) en Funciones considera que para aligerar la car
 
 * Cargar Estudiantes Zonificados.
 * Agregar Nuevos Estudiantes de Prosecución.
-* Corregir Cédulas Escolar o Cédulas Laminadas de estudiantes activos o por renovar inscripción.
+* Corregir Cédulas Escolares o Cédulas Laminadas de estudiantes activos o por renovar inscripción.
 
 Por lo tanto deberá seleccionar el o los Subdirectores Activos en Sistema, funciones a delegar y la fecha de inicio y culminación de estas asignaciones. Al ser de carácter temporal, no significa renunciar a las mismas, ya que puede hacerlas a la par del funcionario delegado o inclusive revocar al Delegado antes de llegado el plazo establecido inicialmente.
 
@@ -147,7 +147,7 @@ Por lo tanto deberá seleccionar el o los Subdirectores Activos en Sistema, func
 <hr>
 
 ### Mostrar Delegados:
-Desde acá podrá mostrar el listado de Delegados Activos o Inactivos (Revocados) si los hubiere, todo con el propósito de hacer seguimiento a cada uno de estos proceso sensibles.
+Desde acá podrá mostrar el listado de Delegados Activos o Inactivos (Revocados) si los hubiere, todo con el propósito de hacer seguimiento a cada uno de estos procesos sensibles.
 
 <hr>
 
@@ -156,7 +156,7 @@ Desde acá podrá mostrar el listado de Delegados Activos o Inactivos (Revocados
 <hr>
 
 ### Cargar Zonificados:
-Desde aquí podrá cargar un archivo del tipo de hoja de cálculo (Excel o Calc) contentivo de la data de todos los **Estudiantes de 1° Año** que han sido Zonificados para la Institución. Este archivo deberá contener toda la información escrita en ***MAYÚSCULA SOSTENIDA*** en cada uno de los campos y el campo **"Cédula"** no deberá contener ni puntos o espacios. Para ello, pinchará el botón ***Elegir archivo***, buscar la ruta donde esté el archivo con la zonificación y seleccionarlo. Posteriormente pinchará el ***Checkbox Activar Botón*** y finalmente pulsar el Botón ***Cargar Zonificados***. Posteriormente aparecerá en pantalla un resumen de cada estudiante si fue procesado o no en la Base de Datos institucional.
+Desde aquí podrá cargar un archivo del tipo de hoja de cálculo (Excel o Calc) contentivo de la data de todos los **Estudiantes de 1° Año** que han sido Zonificados para la Institución. Este archivo deberá contener toda la información escrita en ***MAYÚSCULA SOSTENIDA*** en cada uno de los campos y el campo **"Cédula"** no deberá contener puntos o espacios. Para ello, pinchará el botón ***Elegir archivo***, buscar la ruta donde esté el archivo con la zonificación y seleccionarlo. Posteriormente pinchará el ***Checkbox Activar Botón*** y finalmente pulsar el Botón ***Cargar Zonificados***. Seguidamente aparecerá en pantalla un resumen de cada estudiante si fue procesado o no en la Base de Datos institucional.
 
 <hr>
 
@@ -176,7 +176,7 @@ Desde aquí podrá cargar un archivo del tipo de hoja de cálculo (Excel o Calc)
 <hr>
 
 ### Corregir Modalidad:
-Aplica temporalmente para aquellos estudiantes que están en algún tipo de transición académica como por ejemplo cambios a: Estudiantes Regulares, Estudiantes Repitientes o Estudiantes con Materia Pendiente.
+Aplica temporalmente para aquellos estudiantes que están en algún tipo de transición académica como por ejemplo cambios a: Estudiantes Regulares, Estudiantes Repitientes o Estudiantes con Materia Pendiente. Hasta tanto el Módulo ***Control de Estudios***  esté en mantenimiento los cambios de modalidad, se hará desde este apartado.
 
 <hr>
 
@@ -188,7 +188,7 @@ Aplica temporalmente para aquellos estudiantes que están en algún tipo de tran
 
 
 ### Corregir Cédula:
-Aplicable para aquellos casos donde deba ser modificada el Número de Cédula Escolar o Cédula Laminada de los Estudiantes, así como también para aquellos estudiantes que presentan su ***Cédula Laminada*** y aún aparecen con Cédula Escolar. Estos cambios deben hacerse con evidencia de la Cédula Laminada dentro del Expediente Estudiantil, así como también realizarlo con la previsión y el cuidado necesarios, ya que estos cambios surten efectos de reemplazo en todas las Tablas de la Base de Datos asociadas al identificador anterior de ese Estudiante. 
+Aplicable para aquellos casos donde deba ser modificado el Número de Cédula Escolar o Cédula Laminada de los Estudiantes, así como también para aquellos estudiantes que presentan su ***Cédula Laminada*** y aún aparecen con Cédula Escolar dentro del sistema ***SIGMA ESCOLAR***. Estos cambios deben hacerse con evidencia de la Cédula Laminada dentro del Expediente Estudiantil, así como también realizarlo con la previsión y el cuidado necesarios, ya que estos cambios surten efectos de reemplazo en todas las Tablas de la Base de Datos asociadas al identificador anterior de ese Estudiante. 
 
 <hr>
 
