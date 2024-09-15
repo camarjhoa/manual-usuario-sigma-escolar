@@ -128,7 +128,10 @@ Desde aquí podrá visualizar la matrícula final de cada Año Escolar, la cual 
 <hr>
 
 [![estadisticas.png](https://i.postimg.cc/hG1dhbTK/estadisticas.png)](https://postimg.cc/rdzmP4fH)
-
+<br>
+[![ejemplo-estadistica1.png](https://i.postimg.cc/ncbDh08M/ejemplo-estadistica1.png)](https://postimg.cc/QVmt6gdr)
+<br>
+[![ejemplo-estadistica2.png](https://i.postimg.cc/J4NBDZmx/ejemplo-estadistica2.png)](https://postimg.cc/0bNNh6zK)
 <hr>
 
 ### Delegar Funciones:
