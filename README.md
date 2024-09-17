@@ -55,6 +55,9 @@ Al iniciar el Módulo se presente la siguiente pantalla donde podrá visualizar 
 [![menu-estudiantes.png](https://i.postimg.cc/dVrHBzv9/menu-estudiantes.png)](https://postimg.cc/VJsWsZJS)
 
 <hr>
+<br>
+
+[Regresar al Índice](#indice)
 
 ### Consultar Estudiantes:
 Desde esta opción podrá consultar a cualquier estudiante tan solo ingresando el número de Cédula Laminada o Cédula Escolar del Estudiante. Al realizar la consulta permitirá conocer el estatus actual del mismo, así como también tendrá acceso a diversas opciones asociadas.
@@ -116,11 +119,16 @@ Desde aquí podrá consultar las secciones conformadas por cada Coordinación, t
 [![ejemplo-resumen-seccion.png](https://i.postimg.cc/XvXDs7W5/ejemplo-resumen-seccion.png)](https://postimg.cc/bGcTJPsY)
 
 <hr>
+<br>
+
+[Regresar al Índice](#indice)
 
 ### Descargar Nóminas:
 Este apartado le permite descargar las Nóminas Constituidas por cada Coordinador de Año y Turno, lo cual significa que para poder descargar las mismas deben haber sido primero creadas por el Coordinador respectivo. Si al momento de descargarlas, aparece un mensaje señalando alguna condición. Deberá comunicarse con el Coordinador para conocer los motivos del por qué no ha generado la Nómina para la Escolaridad Activa. Todas las actualizaciones de Nómina aparecerán en la bandeja de Notificaciones de su Sistema (aún no disponible). Igualmente podrá corroborarlo desde el Menú Auditoría (aún no disponible).
 
 [![descargar-nominas.png](https://i.postimg.cc/YqTgPStB/descargar-nominas.png)](https://postimg.cc/CzHzBSZc)
+
+<hr>
 
 [![error-no-generacion-nomina.png](https://i.postimg.cc/Y0pb5pgM/error-no-generacion-nomina.png)](https://postimg.cc/G85FYnq5)
 
@@ -148,6 +156,9 @@ Desde aquí podrá visualizar la matrícula final de cada Año Escolar, la cual 
 <br>
 [![ejemplo-estadistica2.png](https://i.postimg.cc/J4NBDZmx/ejemplo-estadistica2.png)](https://postimg.cc/0bNNh6zK)
 <hr>
+<br>
+
+[Regresar al Índice](#indice)
 
 ### Delegar Funciones:
 Se utiliza cuando el Director(a) en Funciones considera que para aligerar la carga de trabajo en el sistema debe apoyarse en personal directivo que asuma ciertas funciones, por lo que desde aquí podrá delegar funciones como: 
@@ -163,6 +174,9 @@ Por lo tanto deberá seleccionar el o los Subdirectores Activos en Sistema, func
 [![delegar-funciones.png](https://i.postimg.cc/bJFd26Jf/delegar-funciones.png)](https://postimg.cc/DJL79PLx)
 
 <hr>
+<br>
+
+[Regresar al Índice](#indice)
 
 ### Mostrar Delegados:
 Desde acá podrá mostrar el listado de Delegados Activos o Inactivos (Revocados) si los hubiere, todo con el propósito de hacer seguimiento a cada uno de estos procesos sensibles.
@@ -172,6 +186,9 @@ Desde acá podrá mostrar el listado de Delegados Activos o Inactivos (Revocados
 [![mostrar-delegados.png](https://i.postimg.cc/DwK0s420/mostrar-delegados.png)](https://postimg.cc/jLZRY5nY)
 
 <hr>
+<br>
+
+[Regresar al Índice](#indice)
 
 ### Cargar Zonificados:
 Desde aquí podrá cargar un archivo del tipo de hoja de cálculo (Excel o Calc) contentivo de la data de todos los **Estudiantes de 1° Año** que han sido Zonificados para la Institución. Este archivo deberá contener toda la información escrita en ***MAYÚSCULA SOSTENIDA*** en cada uno de los campos y el campo **"Cédula"** no deberá contener puntos o espacios. Para ello, pinchará el botón ***Elegir archivo***, buscar la ruta donde esté el archivo con la zonificación y seleccionarlo. Posteriormente pinchará el ***Checkbox Activar Botón*** y finalmente pulsar el Botón ***Cargar Zonificados***. Seguidamente aparecerá en pantalla un resumen de cada estudiante si fue procesado o no en la Base de Datos institucional.
@@ -204,6 +221,9 @@ Aplica temporalmente para aquellos estudiantes que están en algún tipo de tran
 
 <hr>
 
+<br>
+
+[Regresar al Índice](#indice)
 
 ### Corregir Cédula:
 Aplicable para aquellos casos donde deba ser modificado el Número de Cédula Escolar o Cédula Laminada de los Estudiantes, así como también para aquellos estudiantes que presentan su ***Cédula Laminada*** y aún aparecen con Cédula Escolar dentro del sistema ***SIGMA ESCOLAR***. Estos cambios deben hacerse con evidencia de la Cédula Laminada dentro del Expediente Estudiantil, así como también realizarlo con la previsión y el cuidado necesarios, ya que estos cambios surten efectos de reemplazo en todas las Tablas de la Base de Datos asociadas al identificador anterior de ese Estudiante. 
@@ -214,7 +234,9 @@ Aplicable para aquellos casos donde deba ser modificado el Número de Cédula Es
 [![cedula-corregir-caso.png](https://i.postimg.cc/Z5zR2dth/cedula-corregir-caso.png)](https://postimg.cc/9r1CqzQx)
 
 <hr>
+<br>
 
+[Regresar al Índice](#indice)
 
 ## Dirección IP
 Esta opción se utiliza sólo cuando se activan los procesos de inscripción, ya que como garantía de tomar datos precisos y asegurar que estos procesos se lleven a cabo dentro de la institución, El Director debe validar y autorizar que el **Módulo de Inscripciones** se aperture desde la propia institución, por lo que se validará la dirección IP que rige a la red dentro del Plantel. Para ello, solo deberá hacer click en la dirección: ***https://www.cual-es-mi-ip.net/*** y copiar el valor que arroje (es distinto para cada red). Con este valor en el portapapeles pegarlo
@@ -247,6 +269,9 @@ Una vez logueado en sistema le dará la bienvenida a la pantalla inicial con inf
 [![menu-estudiantes.png](https://i.postimg.cc/7LZ9g4dP/menu-estudiantes.png)](https://postimg.cc/JsSjLfRS)
 
 <br>
+<br>
+
+[Regresar al Índice](#indice)
 
 ### Consultar Estudiante:
 Desde aquí podrá consultar a cualquier estudiante tan solo ingresando su número de Cédula Laminada o Cédula Escolar. Al realizar la consulta permitirá conocer el estatus actual del mismo, así como también tendrá acceso a descargar formatos asociados a:
@@ -262,6 +287,9 @@ Desde aquí podrá consultar a cualquier estudiante tan solo ingresando su núme
 * Otros formatos que se requieran pueden ser agregados.
 
 <br>
+<br>
+
+[Regresar al Índice](#indice)
 
 ### Buscar por Nombres:
 Si no conoce el Número de Cédula Escolar o Cédula Laminada del Estudiante, podrá realizar búsqueda por Nombres o Apellidos, inclusive ambos criterios. Debe tomar en cuenta que los resultados se apegan a la forma en cómo escriba en los campos de búsqueda. Se tiene previsto agregar la función buscar por ***Año y Sección***.
@@ -272,6 +300,9 @@ Si no conoce el Número de Cédula Escolar o Cédula Laminada del Estudiante, po
 [![busqueda-por-nombres.png](https://i.postimg.cc/jjpFdTHp/busqueda-por-nombres.png)](https://postimg.cc/XZg8QTDL)
 
 <br>
+<br>
+
+[Regresar al Índice](#indice)
 
 ### Verificar Datos:
 Esta sección es de gran importancia, ya que le permite verificar en cada estudiante todos los datos cargados en sistema con el propósito de aportar información precisa y correcta de acuerdo a la documentación que repose en el expediente escolar del Estudiante consultado. Esta verificación se realiza consultando la Cédula Escolar o Cédula Laminada del Estudiante. Por favor realice este proceso con la mayor atención y cuidado, ya que esta data alimenta todo el sistema. Los procesos interno de auditoría están activos. 
@@ -298,7 +329,9 @@ Los Datos a verificar están divididos en dos secciones:
 [![datos-representante.png](https://i.postimg.cc/mgPd1BHY/datos-representante.png)](https://postimg.cc/pmtQgNkr)
 
 
+<br>
 
+[Regresar al Índice](#indice)
 
 
 
