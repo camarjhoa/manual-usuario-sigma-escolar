@@ -47,6 +47,9 @@ Al iniciar el Módulo se presente la siguiente pantalla donde podrá visualizar 
 [![inicio-admin-directivo.png](https://i.postimg.cc/yYDY2XNk/inicio-admin-directivo.png)](https://postimg.cc/nCtJDmBJ)
 
 <hr>
+<br>
+
+[Regresar al Índice](#indice)
 
 ## Menú Estudiantes:
 
@@ -55,9 +58,7 @@ Al iniciar el Módulo se presente la siguiente pantalla donde podrá visualizar 
 [![menu-estudiantes.png](https://i.postimg.cc/dVrHBzv9/menu-estudiantes.png)](https://postimg.cc/VJsWsZJS)
 
 <hr>
-<br>
 
-[Regresar al Índice](#indice)
 
 ### Consultar Estudiantes:
 Desde esta opción podrá consultar a cualquier estudiante tan solo ingresando el número de Cédula Laminada o Cédula Escolar del Estudiante. Al realizar la consulta permitirá conocer el estatus actual del mismo, así como también tendrá acceso a diversas opciones asociadas.
@@ -238,7 +239,7 @@ Aplicable para aquellos casos donde deba ser modificado el Número de Cédula Es
 
 [Regresar al Índice](#indice)
 
-## Dirección IP
+## Dirección IP:
 Esta opción se utiliza sólo cuando se activan los procesos de inscripción, ya que como garantía de tomar datos precisos y asegurar que estos procesos se lleven a cabo dentro de la institución, El Director debe validar y autorizar que el **Módulo de Inscripciones** se aperture desde la propia institución, por lo que se validará la dirección IP que rige a la red dentro del Plantel. Para ello, solo deberá hacer click en la dirección: ***https://www.cual-es-mi-ip.net/*** y copiar el valor que arroje (es distinto para cada red). Con este valor en el portapapeles pegarlo
 <hr>
 
@@ -305,26 +306,29 @@ Si no conoce el Número de Cédula Escolar o Cédula Laminada del Estudiante, po
 [Regresar al Índice](#indice)
 
 ### Verificar Datos:
-Esta sección es de gran importancia, ya que le permite verificar en cada estudiante todos los datos cargados en sistema con el propósito de aportar información precisa y correcta de acuerdo a la documentación que repose en el expediente escolar del Estudiante consultado. Esta verificación se realiza consultando la Cédula Escolar o Cédula Laminada del Estudiante. Por favor realice este proceso con la mayor atención y cuidado, ya que esta data alimenta todo el sistema. Los procesos interno de auditoría están activos. 
+Esta sección es de gran importancia, ya que le permite verificar en cada estudiante todos los datos cargados en sistema con el propósito de aportar información precisa y correcta de acuerdo a la documentación que repose en el expediente escolar del Estudiante consultado. Esta verificación se realiza consultando la Cédula Escolar o Cédula Laminada del Estudiante. Por favor realice este proceso con la mayor atención y cuidado, ya que esta data alimenta todo el sistema. Los procesos internos de auditoría están activos. 
 
 [![consultar-estudiante.png](https://i.postimg.cc/qRFWKnH5/consultar-estudiante.png)](https://postimg.cc/DJqCkSZr)
 
-Toda consulta de Verificación comprobará si efectivamente el estudiante ya fue verificado: Si está verificado, muestra el mensaje ***"Datos del Estudiante Verificados"***  o en su defecto lo redirecciona a modificar sus datos si aún no lo ha realizado. Recuerde que debe poseer la documentación del Estudiante en su expediente; de no tenerla por favor contacte al Representante.
+Toda consulta de Verificación comprobará si efectivamente los datos del estudiante están correctos. Si está verificado, muestra el mensaje ***"Datos del Estudiante Verificados"***  o en su defecto lo redirecciona a modificar sus datos si aún no lo ha realizado. Recuerde que debe poseer la documentación del Estudiante en su expediente; de no tenerla por favor contacte al Representante.
 
-[![estudiante-verificado.png](https://i.postimg.cc/DfN1NsDT/estudiante-verificado.png)](https://postimg.cc/dD87k7wH)
+<center>
+   [![estudiante-verificado.png](https://i.postimg.cc/DfN1NsDT/estudiante-verificado.png)](https://postimg.cc/dD87k7wH)
+</center>
+
 
 [![estudiante-no-verificado.png](https://i.postimg.cc/253ZTSw6/estudiante-no-verificado.png)](https://postimg.cc/zLZvG54Z)
 
 Los Datos a verificar están divididos en dos secciones:
-* Datos Personales:
+* **Datos Personales del Estudiante:**
 
   [![datos-personales.png](https://i.postimg.cc/Y2gMYB1w/datos-personales.png)](https://postimg.cc/jCspY9g8)
 
-* Datos de la Madre: Aquí es conveniente señalar que independientemente si la madre es la representante, deberá cargar sus datos así como también señalar si es la representante en los respectivos botones de selección, tal como se muestra en la siguiente imagen:
+* **Datos de la Madre:** Aquí es conveniente señalar que los datos de la madre son obligatorios aún si ésta no es la representante, tal como se muestra en la siguiente imagen:
 
 [![datos-madre.png](https://i.postimg.cc/W1zym0QJ/datos-madre.png)](https://postimg.cc/hXFMcQ4S)
 
-* Datos del Representante: Esta opción se activará sólo si en el apartado anterior señaló que la madre no será la representante, por lo que deberá llenar todos los datos de la persona que fungirá como Representante Legal del Estudiante, tal como se muestra:
+* **Datos del Representante:** Esta opción se activará sólo si en el apartado anterior señaló que la madre no será la representante, por lo que deberá llenar todos los datos de la persona que fungirá como Representante Legal del Estudiante, tal como se muestra:
 
 [![datos-representante.png](https://i.postimg.cc/mgPd1BHY/datos-representante.png)](https://postimg.cc/pmtQgNkr)
 
