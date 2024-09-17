@@ -36,6 +36,9 @@ Para acceder a este Módulo, sólo deberá ingresar su nombre de usuario y contr
 [![login-directivo.png](https://i.postimg.cc/PJtvmLb1/login-directivo.png)](https://postimg.cc/8J0CGz0C)
 
 <hr>
+<br>
+
+[Regresar al Índice](#indice)
 
 ### Conociendo las Funciones:
 Al iniciar el Módulo se presente la siguiente pantalla donde podrá visualizar un resumen estadístico general hasta la fecha para el año escolar activo, incluyendo los retirados a nivel general.
@@ -61,6 +64,9 @@ Desde esta opción podrá consultar a cualquier estudiante tan solo ingresando e
 [![consultar-estudiante.png](https://i.postimg.cc/qRFWKnH5/consultar-estudiante.png)](https://postimg.cc/DJqCkSZr)
 
 <hr>
+<br>
+
+[Regresar al Índice](#indice)
 
 ### Búsqueda Por Nombres:
 Aquí podrár buscar a cualquier estudiante por nombres o apellidos, inclusive ambos criterios. Tenga en cuenta que los resultados se apegan a la forma en cómo escriba los criterios de búsqueda. Se tiene previsto agregar la función buscar por ***Año y Sección***.
@@ -96,6 +102,9 @@ Este apartado le permite agregar Nuevos Ingresos a la Institución, bien sea aqu
 
 <hr>
 
+<br>
+
+[Regresar al Índice](#indice)
 
 ### Resumen de Secciones:
 Desde aquí podrá consultar las secciones conformadas por cada Coordinación, tanto en sus turnos ***MAÑANA Y TARDE***, entendiendo que los turnos de la ***MAÑANA*** está conformado por las Secciones: **A, B, C y D** y los turnos de la ***TARDE*** está compuesto por las Secciones: **E, F, G y H**. Para ello, sólo deberá seleccionar el Año a Consultar y presionar el Botón **Consultar**.
