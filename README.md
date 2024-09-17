@@ -17,7 +17,7 @@
 ## Acceso al Sistema:
 Para acceder al Sistema puede hacerlo mediante la siguiente dirección Web:
 <center>
-  <a target="_blank" href="https://cbitzaraza.com.ve/">https://cbitzaraza.com.ve/</a>
+  <a  href="https://cbitzaraza.com.ve/" target="_blank">https://cbitzaraza.com.ve/</a>
 </center>
 <br><br>
 
