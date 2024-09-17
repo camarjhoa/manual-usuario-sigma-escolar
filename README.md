@@ -12,6 +12,8 @@
 * [Menú Administrativo](#menú-administrativo)
 * [Menú Técnico](#menú-técnico)
 
+* [Módulo Coordinadores](#módulo-coordinadores)
+
 
 
 ## Acceso al Sistema:
@@ -214,3 +216,20 @@ Esta opción se utiliza sólo cuando se activan los procesos de inscripción, ya
 
 [Regresar al Índice](#indice)
 
+<br>
+
+## Módulo Coordinadores:
+Desde este Módulo sólo podrán acceder aquellos usuarios registrados en **SIGMA ESCOLAR** y con las Credenciales de Coordinador. Si fue designado como Coordinador de Año y aún no posee Usuario, contacte con el Subdirector Académico, quien le entregará un Código de Registro.
+
+[![acceso-coordinadores.png](https://i.postimg.cc/65q1rWNj/acceso-coordinadores.png)](https://postimg.cc/ZCkcZhnp)
+[![login.png](https://i.postimg.cc/gjnqZ063/login.png)](https://postimg.cc/64xvstcQ)
+
+<br>
+
+Una vez logueado en sistema le dará la bienvenida a la pantalla inicial con información estadística discriminada por género y sección, así como el total de retiros para la escolaridad presente.
+
+[![pantalla-inicio.png](https://i.postimg.cc/N0dHkctD/pantalla-inicio.png)](https://postimg.cc/4KhyXjmH)
+
+
+
+[Regresar al Índice](#indice)
