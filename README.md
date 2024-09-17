@@ -11,10 +11,11 @@
 * [Menú Académico](#menú-académico)
 * [Menú Administrativo](#menú-administrativo)
 * [Menú Técnico](#menú-técnico)
-
 * [Módulo Coordinadores](#módulo-coordinadores)
 
 
+<br>
+<br>
 
 ## Acceso al Sistema:
 Para acceder al Sistema puede hacerlo mediante la siguiente dirección Web:
@@ -68,6 +69,9 @@ Aquí podrár buscar a cualquier estudiante por nombres o apellidos, inclusive a
 
 [![busqueda-por-nombres.png](https://i.postimg.cc/jjpFdTHp/busqueda-por-nombres.png)](https://postimg.cc/XZg8QTDL)
 
+<br>
+
+[![resultado-consulta.png](https://i.postimg.cc/Y0MhWrDb/resultado-consulta.png)](https://postimg.cc/phcWNHHF)
 
 <hr>
 <br>
@@ -229,6 +233,18 @@ Desde este Módulo sólo podrán acceder aquellos usuarios registrados en **SIGM
 Una vez logueado en sistema le dará la bienvenida a la pantalla inicial con información estadística discriminada por género y sección, así como el total de retiros para la escolaridad presente.
 
 [![pantalla-inicio.png](https://i.postimg.cc/N0dHkctD/pantalla-inicio.png)](https://postimg.cc/4KhyXjmH)
+
+### Menú Estudiantes:
+[![menu-estudiantes.png](https://i.postimg.cc/7LZ9g4dP/menu-estudiantes.png)](https://postimg.cc/JsSjLfRS)
+
+<br>
+
+### Consultar Estudiante:
+Desde aquí podrá consultar a cualquier estudiante tan solo ingresando su número de Cédula Laminada o Cédula Escolar. Al realizar la consulta permitirá conocer el estatus actual del mismo, así como también tendrá acceso a diversas opciones asociadas como:
+
+[![consultar-estudiante.png](https://i.postimg.cc/qRFWKnH5/consultar-estudiante.png)](https://postimg.cc/DJqCkSZr)
+
+* 
 
 
 
