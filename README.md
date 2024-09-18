@@ -306,7 +306,7 @@ Si no conoce el Número de Cédula Escolar o Cédula Laminada del Estudiante, po
 [Regresar al Índice](#indice)
 
 ### Verificar Datos:
-Esta sección es de gran importancia, ya que le permite verificar en cada estudiante todos los datos cargados en sistema con el propósito de aportar información precisa y correcta de acuerdo a la documentación que repose en el expediente escolar del Estudiante consultado. Esta verificación se realiza consultando la Cédula Escolar o Cédula Laminada del Estudiante. Por favor realice este proceso con la mayor atención y cuidado, ya que esta data alimenta todo el sistema. Los procesos internos de auditoría están activos. 
+Esta sección es de gran importancia, ya que le permite verificar en cada estudiante todos los datos cargados en sistema con el propósito de aportar información precisa y correcta de acuerdo a la documentación que repose en el expediente escolar del Estudiante consultado. Esta verificación se realiza consultando la Cédula Escolar o Cédula Laminada del Estudiante. Por favor realice este proceso con la mayor atención y cuidado, ya que esta data alimenta todo el sistema. Los procesos internos de auditoría están activos. Tome en cuenta que muchos de los formatos de generación automática requieren que los estudiantes estén verificados, por lo tanto no omita este proceso.- 
 
 [![consultar-estudiante.png](https://i.postimg.cc/qRFWKnH5/consultar-estudiante.png)](https://postimg.cc/DJqCkSZr)
 
@@ -337,9 +337,39 @@ Los Datos a verificar están divididos en dos secciones:
 
 [Regresar al Índice](#indice)
 
+<br>
+
+### Modificar Datos:
+Se utiliza para corregir cualquier dato que se considere pudiera estar incorrecto dentro de la base de datos. Tiene la misma validez de la [Sección Anterior](#verificar-datos) independientemente si el estudiante está o no verificado.
+
+<br>
+
+### Retirar Estudiante:
+Aplica a aquellos estudiantes que a petición de su representante deban dejar la institución. En este caso, el retiro de cualquier estudiante procede en dos modalidades:
+
+* ***Estudiantes Inscritos para la Escolaridad en Curso***: Aplica a aquellos estudiantes que aún cuando fueron inscritos deben ser retirados del plantel, por lo que deberá realizar este procedimiento administrativo el cual incide en los movimientos estadísticos de la institución.
+
+<hr>
+
+[retirar-estudiante.png](https://postimg.cc/87ph4Rtn)
+
+<br>
+
+[![proceso-retiro-formal.png](https://i.postimg.cc/3wF1GRnc/proceso-retiro-formal.png)](https://postimg.cc/GB9vwc0F)
 
 
+  
+* ***Estudiantes que no Formalizaron Inscripción para la Escolaridad en Curso***: Se procede a realizar el retiro del estudiante, pero este retiro no genera impacto en la estadística. Sin embargo, se deberá realizar el retiro por sistema, para dejar constancia de que le fue entregada la documentación a su representante respectivo, así como también para registros de control interno.
 
+***Nota:*** Al consultar al estudiante a retirar, se valida la inscripción formal del estudiante. En ambos casos se genera un documento en original y copia.-
+
+<br>
+
+[![proceso-retiro-informal.png](https://i.postimg.cc/SK4b6gpN/proceso-retiro-informal.png)](https://postimg.cc/k2TH9F4k)
+
+<br>
+
+[Regresar al Índice](#indice)
 
 
 
