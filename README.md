@@ -267,6 +267,7 @@ Una vez logueado en sistema le dará la bienvenida a la pantalla inicial con inf
 [![pantalla-inicio.png](https://i.postimg.cc/N0dHkctD/pantalla-inicio.png)](https://postimg.cc/4KhyXjmH)
 
 ### Menú Estudiantes:
+
 [![menu-estudiantes.png](https://i.postimg.cc/7LZ9g4dP/menu-estudiantes.png)](https://postimg.cc/JsSjLfRS)
 
 <br>
@@ -313,7 +314,9 @@ Esta sección es de gran importancia, ya que le permite verificar en cada estudi
 Toda consulta de Verificación comprobará si efectivamente los datos del estudiante están correctos. Si está verificado, muestra el mensaje ***"Datos del Estudiante Verificados"***  o en su defecto lo redirecciona a modificar sus datos si aún no lo ha realizado. Recuerde que debe poseer la documentación del Estudiante en su expediente; de no tenerla por favor contacte al Representante.
 
 <center>
+   
    [![estudiante-verificado.png](https://i.postimg.cc/DfN1NsDT/estudiante-verificado.png)](https://postimg.cc/dD87k7wH)
+   
 </center>
 
 
@@ -365,7 +368,7 @@ Aplica a aquellos estudiantes que a petición de su representante deban dejar la
 
 <br>
 
-[![proceso-retiro-informal.png](https://i.postimg.cc/SK4b6gpN/proceso-retiro-informal.png)](https://postimg.cc/k2TH9F4k)
+[![proceso-retiro-informal.png](https://i.postimg.cc/zB9sf7pr/proceso-retiro-informal.png)](https://postimg.cc/k6v11xk1)
 
 <br>
 
