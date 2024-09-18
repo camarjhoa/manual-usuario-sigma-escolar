@@ -354,7 +354,7 @@ Aplica a aquellos estudiantes que a petición de su representante deban dejar la
 
 <hr>
 
-[retirar-estudiante.png](https://postimg.cc/87ph4Rtn)
+[![retirar-estudiante.png](https://i.postimg.cc/sgSwVKSy/retirar-estudiante.png)](https://postimg.cc/87ph4Rtn)
 
 <br>
 
