@@ -6,6 +6,7 @@
 
 ## Indice
 * [Acceso al Sistema](#acceso-al-sistema)
+* [Formatos del Sistema](#formatos.md)
 * [Módulo Directivo](#módulo-directivo)
 * [Menú Estudiantes](#menú-estudiantes)
 * [Menú Académico](#menú-académico)
