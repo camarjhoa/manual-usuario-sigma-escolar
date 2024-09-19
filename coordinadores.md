@@ -1,6 +1,18 @@
 <br>
 
-[Regresar al Índice](README.md)
+[Regresar al Menú Principal](README.md)
+
+
+## Indice
+* [Menú Estudiantes](#menú-estudiantes)
+* [Consultar Estudiantes](#consultar-estudiantes)
+* [Búsqueda por Nombres ó Apellidos](#busqueda-por-nombres)
+* [Verificar Datos](#verificar-datos)
+* [Modificar Datos](#modificar-datos)
+* [Retirar Estudiantes](#retirar-estudiantes)
+
+### Modificar Datos:
+
 
 ## Módulo Coordinadores:
 Desde este Módulo sólo podrán acceder aquellos usuarios registrados en **SIGMA ESCOLAR** y con las Credenciales de Coordinador. Si fue designado como Coordinador de Año y aún no posee Usuario, contacte con el Subdirector Académico, quien le entregará un Código de Registro.
@@ -23,7 +35,7 @@ Una vez logueado en sistema le dará la bienvenida a la pantalla inicial con inf
 
 [Regresar al Índice](#indice)
 
-### Consultar Estudiante:
+### Consultar Estudiantes:
 Desde aquí podrá consultar a cualquier estudiante tan solo ingresando su número de Cédula Laminada o Cédula Escolar. Al realizar la consulta permitirá conocer el estatus actual del mismo, así como también tendrá acceso a descargar formatos asociados a:
 
 [![consultar-estudiante.png](https://i.postimg.cc/qRFWKnH5/consultar-estudiante.png)](https://postimg.cc/DJqCkSZr)
@@ -95,7 +107,7 @@ Se utiliza para corregir cualquier dato que se considere pudiera estar incorrect
 
 <br>
 
-### Retirar Estudiante:
+### Retirar Estudiantes:
 Aplica a aquellos estudiantes que a petición de su representante deban dejar la institución. En este caso, el retiro de cualquier estudiante procede en dos modalidades:
 
 * ***Estudiantes Inscritos para la Escolaridad en Curso***: Aplica a aquellos estudiantes que aún cuando fueron inscritos deben ser retirados del plantel, por lo que deberá realizar este procedimiento administrativo el cual incide en los movimientos estadísticos de la institución.
