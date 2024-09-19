@@ -6,7 +6,7 @@
 ## Indice
 * [Menú Estudiantes](#menú-estudiantes)
 * [Consultar Estudiantes](#consultar-estudiantes)
-* [Búsqueda por Nombres ó Apellidos](#busqueda-por-nombres)
+* [Búsqueda por Nombres ó Apellidos](#buscar-por-nombres)
 * [Verificar Datos](#verificar-datos)
 * [Modificar Datos](#modificar-datos)
 * [Retirar Estudiantes](#retirar-estudiantes)
