@@ -11,8 +11,6 @@
 * [Modificar Datos](#modificar-datos)
 * [Retirar Estudiantes](#retirar-estudiantes)
 
-### Modificar Datos:
-
 
 ## Módulo Coordinadores:
 Desde este Módulo sólo podrán acceder aquellos usuarios registrados en **SIGMA ESCOLAR** y con las Credenciales de Coordinador. Si fue designado como Coordinador de Año y aún no posee Usuario, contacte con el Subdirector Académico, quien le entregará un Código de Registro.
