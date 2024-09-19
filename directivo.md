@@ -1,8 +1,8 @@
 
+# Módulo Directivo
 
 
 ## Indice
-* [Módulo Directivo](#módulo-directivo)
 * [Menú Estudiantes](#menú-estudiantes)
 * [Menú Académico](#menú-académico)
 * [Menú Administrativo](#menú-administrativo)
