@@ -4,7 +4,7 @@
 
 <br>
 
-# Formatos Sistematizados SIGMA ESCOLAR.
+# Formatos Digitalizados SIGMA ESCOLAR.
 
 ## Formatos de Retiro:
 
