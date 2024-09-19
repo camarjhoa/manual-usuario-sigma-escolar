@@ -2,7 +2,7 @@
 
 [Regresar al Índice](README.md)
 
-<br>
+
 
 # Formatos Digitalizados SIGMA ESCOLAR.
 
