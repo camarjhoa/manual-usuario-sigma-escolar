@@ -142,5 +142,23 @@ Al igual que el Retiro Formal deberá llenar los campos: ***Causal de Retiro, Fe
 
 [Regresar al Índice](#indice)
 
+<br>
+
+### Asignar Sección a Estudiante:
+Asignar sección a cualquier estudiante perteneciente a su Coordinación está sujeto a dos ipos de ingresos: Estudiantes de Nuevo Ingreso (Zonificados a 1° Año) ó Estudiantes en Prosecución provenientes de otras instituciones. Desde aquí podrá ingresar el Número de Cédula Escolar ó Cédula Laminada del Estudiante y seleccionar la sección. Con estos datos, presione el botón ***"Consultar"*** para buscar en la base de datos la situación del estudiante. Si no posee sección aún le asignará la sección.
+
+<hr>
+
+[![asignar-seccion-consulta.png](https://i.postimg.cc/nhCK2q46/asignar-seccion-consulta.png)](https://postimg.cc/ZWzyKBDc)
+
+Si el estudiante no posee sección, procederá a cargarle la sección seleccionada en la base de datos y  arrojará el siguiente mensaje:
+
+[![seccion-asignada-nuevo.png](https://i.postimg.cc/P5VHsn8C/seccion-asignada-nuevo.png)](https://postimg.cc/cv32wjhW)
+
+En caso de poseer sección mostrará la información correspondiente.
+
+[![seccion-asignada-lista.png](https://i.postimg.cc/W11VH1tR/seccion-asignada-lista.png)](https://postimg.cc/4mqjKZzw)
+
+<br>
 
 
