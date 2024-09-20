@@ -124,7 +124,7 @@ En todo Retiro Formal es necesario que complete los siguientes datos:
 * Último Año que cursó para generar la Constancia de Buena Conducta.
 
 
-[![proceso-retiro-formal.png](https://i.postimg.cc/3wF1GRnc/proceso-retiro-formal.png)](https://postimg.cc/GB9vwc0F)
+[![proceso-retiro-formal.png](https://i.postimg.cc/3wF1GRnc/proceso-retiro-formal.png)]
 
 ***Nota: En la sección "Último Año que Cursó para generar Constancia de Buena Conducta", debeá tomar en cuenta el momento académico en que se realiza el retiro. Por ejemplo: Estudiantes que están inscritos pero que no ha iniciado el Primer Momento Pedagógico o éste aún no culmina, deberá tomar el último año cursado por el Estudiante para generar la Constancia de Buena Conducta. Por el contrario, si ya está avanzado o en progreso el Año Escolar en curso, selecciona el Año actual que está cursando dicho estudiante.***
   
@@ -136,7 +136,7 @@ Al igual que el Retiro Formal deberá llenar los campos: ***Causal de Retiro, Fe
 
 <br>
 
-[![proceso-retiro-informal.png](https://i.postimg.cc/zB9sf7pr/proceso-retiro-informal.png)](https://postimg.cc/k6v11xk1)
+[![proceso-retiro-informal.png](https://i.postimg.cc/zB9sf7pr/proceso-retiro-informal.png)]
 
 <br>
 
@@ -149,15 +149,15 @@ Asignar sección a cualquier estudiante perteneciente a su Coordinación está s
 
 <hr>
 
-[![asignar-seccion-consulta.png](https://i.postimg.cc/nhCK2q46/asignar-seccion-consulta.png)](https://postimg.cc/ZWzyKBDc)
+[![asignar-seccion-consulta.png](https://i.postimg.cc/nhCK2q46/asignar-seccion-consulta.png)]
 
 Si el estudiante no posee sección, procederá a cargarle la sección seleccionada en la base de datos y  arrojará el siguiente mensaje:
 
-[![seccion-asignada-nuevo.png](https://i.postimg.cc/P5VHsn8C/seccion-asignada-nuevo.png)](https://postimg.cc/cv32wjhW)
+[![seccion-asignada-nuevo.png](https://i.postimg.cc/P5VHsn8C/seccion-asignada-nuevo.png)]
 
 En caso de poseer sección mostrará la información correspondiente.
 
-[![seccion-asignada-lista.png](https://i.postimg.cc/W11VH1tR/seccion-asignada-lista.png)](https://postimg.cc/4mqjKZzw)
+[![seccion-asignada-lista.png](https://i.postimg.cc/W11VH1tR/seccion-asignada-lista.png)]
 
 ***Nota: La asignación de sección no significa la generación automática de Nóminas. Si aún no creado la Nómina se le recomienda asignar todos los estudiantes y posteriormente Crear la Nómina. Si ya fue Creada sólo deberá actualizar la Nómina para incorporar los últimos movimientos.*** Si tiene dudas al respecto, favor leer la sección Nóminas.
 <br>
