@@ -159,6 +159,14 @@ En caso de poseer sección mostrará la información correspondiente.
 
 [![seccion-asignada-lista.png](https://i.postimg.cc/W11VH1tR/seccion-asignada-lista.png)](https://postimg.cc/4mqjKZzw)
 
+***Nota: La asignación de sección no significa la generación automática de Nóminas. Si aún no creado la Nómina se le recomienda asignar todos los estudiantes y posteriormente Crear la Nómina. Si ya fue Creada sólo deberá actualizar la Nómina para incorporar los últimos movimientos.*** Si tiene dudas al respecto, favor leer la sección Nóminas.
 <br>
+
+### Modificar Sección:
+Aplica cuando desea mover algún estudiante de sección. Para ello, sólo bastará con ingresar el Número de Cédula Escolar o Cédula Laminada y al igual que la opción anterior mostrará los resultados de la Consulta, donde podrá escoger la Nueva Sección para el estudiante consultado.
+
+[![modificar-seccion.png](https://i.postimg.cc/fLK5pDJF/modificar-seccion.png)]
+
+
 
 
