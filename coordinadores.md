@@ -126,7 +126,8 @@ En todo Retiro Formal es necesario que complete los siguientes datos:
 * Último Año que cursó para generar la Constancia de Buena Conducta.
 
 
-[![proceso-retiro-formal.png](https://i.postimg.cc/3wF1GRnc/proceso-retiro-formal.png)]
+[![proceso-retiro-formal.png](https://i.postimg.cc/3wF1GRnc/proceso-retiro-formal.png)](https://postimg.cc/GB9vwc0F)
+
 
 ***Nota: En la sección "Último Año que Cursó para generar Constancia de Buena Conducta", debeá tomar en cuenta el momento académico en que se realiza el retiro. Por ejemplo: Estudiantes que están inscritos pero que no ha iniciado el Primer Momento Pedagógico o éste aún no culmina, deberá tomar el último año cursado por el Estudiante para generar la Constancia de Buena Conducta. Por el contrario, si ya está avanzado o en progreso el Año Escolar en curso, selecciona el Año actual que está cursando dicho estudiante.***
   
@@ -138,7 +139,7 @@ Al igual que el Retiro Formal deberá llenar los campos: ***Causal de Retiro, Fe
 
 <br>
 
-[![proceso-retiro-informal.png](https://i.postimg.cc/zB9sf7pr/proceso-retiro-informal.png)]
+[![proceso-retiro-informal.png](https://i.postimg.cc/SK4b6gpN/proceso-retiro-informal.png)](https://postimg.cc/k2TH9F4k)
 
 <br>
 
@@ -157,15 +158,20 @@ Asignar sección a cualquier estudiante perteneciente a su Coordinación está s
 
 <hr>
 
-[![asignar-seccion-consulta.png](https://i.postimg.cc/nhCK2q46/asignar-seccion-consulta.png)]
+[![asignar-seccion-consulta.png](https://i.postimg.cc/nhCK2q46/asignar-seccion-consulta.png)](https://postimg.cc/ZWzyKBDc)
+
 
 Si el estudiante no posee sección, procederá a cargarle la sección seleccionada en la base de datos y  arrojará el siguiente mensaje:
 
-[![seccion-asignada-nuevo.png](https://i.postimg.cc/P5VHsn8C/seccion-asignada-nuevo.png)]
+
+[![seccion-asignada-nuevo.png](https://i.postimg.cc/P5VHsn8C/seccion-asignada-nuevo.png)](https://postimg.cc/cv32wjhW)
+
 
 En caso de poseer sección mostrará la información correspondiente.
 
-[![seccion-asignada-lista.png](https://i.postimg.cc/W11VH1tR/seccion-asignada-lista.png)]
+
+[![seccion-asignada-lista.png](https://i.postimg.cc/W11VH1tR/seccion-asignada-lista.png)](https://postimg.cc/4mqjKZzw)
+
 
 ***Nota: La asignación de sección no significa la generación automática de Nóminas. Si aún no creado la Nómina se le recomienda asignar todos los estudiantes y posteriormente Crear la Nómina. Si ya fue Creada sólo deberá actualizar la Nómina para incorporar los últimos movimientos.*** Si tiene dudas al respecto, favor leer la sección Nóminas.
 <br>
@@ -173,7 +179,24 @@ En caso de poseer sección mostrará la información correspondiente.
 ### Modificar Sección:
 Aplica cuando desea mover algún estudiante de sección. Para ello, sólo bastará con ingresar el Número de Cédula Escolar o Cédula Laminada y al igual que la opción anterior mostrará los resultados de la Consulta, donde podrá escoger la Nueva Sección para el estudiante consultado.
 
-[![modificar-seccion.png](https://i.postimg.cc/fLK5pDJF/modificar-seccion.png)]
+
+[![modificar-seccion.png](https://i.postimg.cc/fLK5pDJF/modificar-seccion.png)](https://postimg.cc/k62xtrNF)
+
+### Liberar Estudiante:
+Utilice esta opción sólo si un estudiante debe ser cambiado del turno que Usted Coordina, por lo que es necesario quitarle la sección y turno. Al hacer esto, el estudiante debe aparecer en la sección ***Estudiantes sin Sección***, lo cual significa que el Coordinador del turno correspondiente le podrá asignar la sección respectiva. Es importante señalar que al hacer esto deberá entregar el expediente al Coordinador del turno respectivo. Esta acción genera ***Movimientos de Auditoría***.
+
+<br>
+
+[![liberar-estudiante.png](https://i.postimg.cc/zDQsMxT7/liberar-estudiante.png)](https://postimg.cc/MXy3fbPf)
+
+<hr>
+
+Como puede observar, solo deberá ingresar el Número de Cédula Escolar o Cédula Laminada del Estudiante y pulsar el Botón **Consultar**. El resultado contiene los datos básicos del Estudiante. Posteriormente, solo debe pulsar el **Liberar Estudiante**, arrojando el siguiente mensaje: ***"Estudiante Liberado Exitosamente"***.
+
+
+
+[![liberar-estudiante-proceder.png](https://i.postimg.cc/901t68np/liberar-estudiante-proceder.png)](https://postimg.cc/T5LDm9GL)
+
 
 
 
