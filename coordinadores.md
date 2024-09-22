@@ -200,4 +200,95 @@ Como puede observar, solo deberá ingresar el Número de Cédula Escolar o Cédu
 
 
 
+### Estudiantes sin Sección:
+Se utiliza para observar si existen estudiantes sin sección en el nivel que Coordina. Debe tomar en cuenta que todo estudiante que le sea reflejado en esta sección, también aparecerá en el Módulo del Coordinador del otro turno, por lo que cualquier asignación de sección debe ir acompañada del expediente del estudiante.
+
+
+[![estudiantes-sin-seccion.png](https://i.postimg.cc/KY7c1Wxt/estudiantes-sin-seccion.png)](https://postimg.cc/jW5Y9ZWj)
+
+
+<hr>
+
+
+## Menú Nóminas:
+
+[![menu-nominas.png](https://i.postimg.cc/MTF0rwG8/menu-nominas.png)](https://postimg.cc/KktgRdL9)
+
+
+### Crear Nóminas:
+
+Utilice este botón cuando requiera crear las nóminas por primera vez, por lo que si considera debe hacer cambios de sección, hágalo antes de crear la nómina, ya que esto se sugiere hacerlo así, ya que el proceso de conformación de las nóminas tiene dos estapas de clasificación:
+
+* Estudiantes inscritos desde el primer día de inscripción hasta el último día inscripción para estudiantes regulares.
+* Estudiantes inscritos posterior a esa última fecha de inscripción de los estudiantes regulares así como también los nuevos ingresos institucionales.
+
+Este orden de clasificación procederá a organizar el primer grupo en atención al número de cédula escolar o cédula laminada en orden ascendente. El segundo grupo será agregado al final de la lista en atención a la fecha de inscripción. 
+
+
+<hr>
+
+[![crear-nomina-mensaje.png](https://i.postimg.cc/T1xbsPXF/crear-nomina-mensaje.png)](https://postimg.cc/7GBbGwhn)
+
+
+* Para crear la nómina deberá seleccionar la sección a la cual creará la nómina, tomando en cuenta que el turno de la mañana le corresponden las secciones: ** A, B, C y D**; turno de la tarde, secciones: ** E, F, G y H**.
+* Seleccionar el Plan de Estudios correspondiente a esa sección. Estos planes de Estudios actualmente son: ***(31059) Ciencias y (31060) Ciencias y Tecnología***.
+* Finalmente solo deberá pulsar el botón ***Crear Nómina***.
+
+
+[![crear-nomina-proceso.png](https://i.postimg.cc/kMNKbWQm/crear-nomina-proceso.png)](https://postimg.cc/t7Ts0ZvS)
+
+[![crear-nomina-proceso.png](https://i.postimg.cc/kMNKbWQm/crear-nomina-proceso.png)](https://postimg.cc/t7Ts0ZvS)
+
+[![crear-nomina-mensaje-final.png](https://i.postimg.cc/HkNygzgQ/crear-nomina-mensaje-final.png)](https://postimg.cc/NK1M81LM)
+
+<hr>
+
+
+***Nota: Los posibles mensajes de error son: Que la nómina ya exista o que esté intentando crear una nómina para la sección con un Plan de Estudios no aplicable a esta sección.***
+
+[![nomina-existente.png](https://i.postimg.cc/TwM5yPh1/nomina-existente.png)](https://postimg.cc/JyxzvMNC)
+
+
+[![nomina-error.png](https://i.postimg.cc/nz4jqtQk/nomina-error.png)](https://postimg.cc/k65gdzs6)
+
+<hr>
+
+### Actualizar Nómina:
+Aplica este menú sólo cuando haya realizado asignaciones o cambios de sección, luego de hacer creado la Nómina por primera vez mediante el menú anteriormente descrito. Tome en cuenta que todos los cambios de sección el estudiante recién cambiado será colocado al final de la lista, para que no entorpezca los números de lista de los estudiantes con sección y número de lista asignado. Si por ejemplo usted mueve un estudiante de la sección "A" para la sección "B" el número de lista que tenía en la sección "A" desaparece y se le asignará un número posterior al último estudiante de la lista en la nueva sección.
+
+El procedimiento es similar al proceso de creación de Nómina: Deberá seleccionar la sección a actualizar, el plan de estudios correspondiente y pulsar el botón **"Actualizar Nómina"**.
+
+[![actualizar-nominas1.png](https://i.postimg.cc/htmdKxP6/actualizar-nominas1.png)](https://postimg.cc/4YJd5YcQ)
+
+[![actualizar-nominas2.png](https://i.postimg.cc/Y9rGNsfB/actualizar-nominas2.png)](https://postimg.cc/VShkm4VK)
+
+
+<hr>
+
+***Nota: Al igual que el menú anterior los mensajes de error están enfocados a: La Nómina aún no ha sido creada ó está seleccionando un Plan de Estudios no Aplicable a la sección seleccionada***.
+
+
+
+
+
+[![nomina-error.png](https://i.postimg.cc/nz4jqtQk/nomina-error.png)](https://postimg.cc/k65gdzs6)
+
+[![nomina-error-no-creada.png](https://i.postimg.cc/wM9CjhpV/nomina-error-no-creada.png)](https://postimg.cc/0MHWtKrM)
+
+
+<hr>
+
+
+### Descargar Nóminas:
+Para descargar las Nóminas de su Coordinación debió haberlas creado o actualizado si fuera el caso, tal como se señala el procedimiento en los menús anteriormente descritos. Para descargar una nómina solo deberá seleccionar la sección y pulsar el botón "**Consultar**". Si la nómina está creada abrirá una pestaña nueva en su navegador, generando un archivo pdf con toda la nómina actualizada y lista para imprimir. Los mensajes de error aplican si aún no ha generado la nómina. 
+
+
+[![descargar-nominas-consulta.png](https://i.postimg.cc/VsbgJS69/descargar-nominas-consulta.png)](https://postimg.cc/6TtnSpCT)
+
+
+[![nomina-error-no-creada.png](https://i.postimg.cc/wM9CjhpV/nomina-error-no-creada.png)](https://postimg.cc/0MHWtKrM)
+
+
+<hr>
+
 
