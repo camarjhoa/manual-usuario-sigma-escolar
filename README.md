@@ -9,6 +9,7 @@
 * [Formatos Generados](formatos.md)
 * [Módulo Directivo](directivo.md)
 * [Módulo Coordinadores](coordinadores.md)
+* [Agradecimientos y Colaboraciones](colaboraciones.md)
 
 
 <br>
