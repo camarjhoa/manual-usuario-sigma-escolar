@@ -13,7 +13,7 @@
 * [Menú Secciones](#menú-secciones)
 * [Asignar Secciones](#asignar-sección-a-estudiante)
 * [Modificar Sección](#modificar-sección)
-* [liberar Estudiante](#liberar-estudiante)
+* [Liberar Estudiante](#liberar-estudiante)
 * [Estudiantes sin Sección](#estudiantes-sin-sección)
 * [Menú Nóminas](#menú-nóminas)
 * [Crear Nóminas](#crear-nóminas)
