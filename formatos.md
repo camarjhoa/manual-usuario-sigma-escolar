@@ -20,8 +20,11 @@ Genera dos (02) planillas de retiro en original y copia y una (01) Constancia de
 <hr>
 
 ### Retiros Informales:
-Genera una (01) planilla de retiro donde se señala la entrega de la documentación del Estudiante en la institución. La firma el Coordinador, ya que sólo se genera el formato para dejar constancia de la entrega de estos documentos al Representante.
+Genera dos (02) planillas de retiro en original y copia donde se señala la entrega de la documentación del Estudiante en la institución, así como también genera la Constancia de Buena Conducta del Último Año que cursó el Estudiante.  Ambos formatos deben ser firmados por el Director(a) en Funciones. Este tipo de retiro no afecta los movimientos estadísticos del mes.ya que sólo se genera para dejar constancia de la entrega de estos documentos al Representante.
 
-[![retiro-estudiante-2.png](https://i.postimg.cc/xdL9Jhz1/retiro-estudiante-2.png)](https://postimg.cc/Z9YGXfHG)
+[![retiro-estudiante-2.png](https://i.postimg.cc/Gh64W3YX/retiro-estudiante-2.png)](https://postimg.cc/6yL6RXMZ)
+
+
+[![constancia-buena-conducta.png](https://i.postimg.cc/mkmLZ9F3/constancia-buena-conducta.png)](https://postimg.cc/64GJYycT)
 
 <hr>
