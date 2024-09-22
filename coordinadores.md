@@ -182,6 +182,10 @@ En caso de poseer sección mostrará la información correspondiente.
 ***Nota: La asignación de sección no significa la generación automática de Nóminas. Si aún no creado la Nómina se le recomienda asignar todos los estudiantes y posteriormente Crear la Nómina. Si ya fue Creada sólo deberá actualizar la Nómina para incorporar los últimos movimientos.*** Si tiene dudas al respecto, favor leer la sección Nóminas.
 <br>
 
+
+[Regresar al Índice](#indice)
+
+
 ### Modificar Sección:
 Aplica cuando desea mover algún estudiante de sección. Para ello, sólo bastará con ingresar el Número de Cédula Escolar o Cédula Laminada y al igual que la opción anterior mostrará los resultados de la Consulta, donde podrá escoger la Nueva Sección para el estudiante consultado.
 
@@ -204,6 +208,11 @@ Como puede observar, solo deberá ingresar el Número de Cédula Escolar o Cédu
 [![liberar-estudiante-proceder.png](https://i.postimg.cc/901t68np/liberar-estudiante-proceder.png)](https://postimg.cc/T5LDm9GL)
 
 
+<br>
+
+
+[Regresar al Índice](#indice)
+
 
 
 ### Estudiantes sin Sección:
@@ -214,6 +223,11 @@ Se utiliza para observar si existen estudiantes sin sección en el nivel que Coo
 
 
 <hr>
+
+<br>
+
+
+[Regresar al Índice](#indice)
 
 
 ## Menú Nóminas:
@@ -259,6 +273,11 @@ Este orden de clasificación procederá a organizar el primer grupo en atención
 
 <hr>
 
+<br>
+
+
+[Regresar al Índice](#indice)
+
 ### Actualizar Nóminas:
 Aplica este menú sólo cuando haya realizado asignaciones o cambios de sección, luego de hacer creado la Nómina por primera vez mediante el menú anteriormente descrito. Tome en cuenta que todos los cambios de sección el estudiante recién cambiado será colocado al final de la lista, para que no entorpezca los números de lista de los estudiantes con sección y número de lista asignado. Si por ejemplo usted mueve un estudiante de la sección "A" para la sección "B" el número de lista que tenía en la sección "A" desaparece y se le asignará un número posterior al último estudiante de la lista en la nueva sección.
 
@@ -284,6 +303,11 @@ El procedimiento es similar al proceso de creación de Nómina: Deberá seleccio
 
 <hr>
 
+<br>
+
+
+[Regresar al Índice](#indice)
+
 
 ### Descargar Nóminas:
 Para descargar las Nóminas de su Coordinación debió haberlas creado o actualizado si fuera el caso, tal como se señala el procedimiento en los menús anteriormente descritos. Para descargar una nómina solo deberá seleccionar la sección y pulsar el botón "**Consultar**". Si la nómina está creada abrirá una pestaña nueva en su navegador, generando un archivo pdf con toda la nómina actualizada y lista para imprimir. Los mensajes de error aplican si aún no ha generado la nómina. 
@@ -298,3 +322,7 @@ Para descargar las Nóminas de su Coordinación debió haberlas creado o actuali
 <hr>
 
 
+<br>
+
+
+[Regresar al Índice](#indice)
