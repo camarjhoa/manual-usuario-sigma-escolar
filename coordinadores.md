@@ -11,8 +11,14 @@
 * [Modificar Datos](#modificar-datos)
 * [Retirar Estudiantes](#retirar-estudiantes)
 * [Menú Secciones](#menú-secciones)
-* [Retirar Estudiantes](#retirar-estudiantes)
-
+* [Asignar Secciones](#asignar-sección-a-estudiante)
+* [Modificar Sección](#modificar-sección)
+* [liberar Estudiante](#liberar-estudiante)
+* [Estudiantes sin Sección](#estudiantes-sin-sección)
+* [Menú Nóminas](#menú-nóminas)
+* [Crear Nóminas](#crear-nóminas)
+* [Actualizar Nóminas](#actualizar-nóminas)
+* [Descargar Nóminas](#descargar-nóminas)
 
 ## Módulo Coordinadores:
 Desde este Módulo sólo podrán acceder aquellos usuarios registrados en **SIGMA ESCOLAR** y con las Credenciales de Coordinador. Si fue designado como Coordinador de Año y aún no posee Usuario, contacte con el Subdirector Académico, quien le entregará un Código de Registro.
@@ -237,7 +243,7 @@ Este orden de clasificación procederá a organizar el primer grupo en atención
 
 [![crear-nomina-proceso.png](https://i.postimg.cc/kMNKbWQm/crear-nomina-proceso.png)](https://postimg.cc/t7Ts0ZvS)
 
-[![crear-nomina-proceso.png](https://i.postimg.cc/kMNKbWQm/crear-nomina-proceso.png)](https://postimg.cc/t7Ts0ZvS)
+
 
 [![crear-nomina-mensaje-final.png](https://i.postimg.cc/HkNygzgQ/crear-nomina-mensaje-final.png)](https://postimg.cc/NK1M81LM)
 
@@ -253,7 +259,7 @@ Este orden de clasificación procederá a organizar el primer grupo en atención
 
 <hr>
 
-### Actualizar Nómina:
+### Actualizar Nóminas:
 Aplica este menú sólo cuando haya realizado asignaciones o cambios de sección, luego de hacer creado la Nómina por primera vez mediante el menú anteriormente descrito. Tome en cuenta que todos los cambios de sección el estudiante recién cambiado será colocado al final de la lista, para que no entorpezca los números de lista de los estudiantes con sección y número de lista asignado. Si por ejemplo usted mueve un estudiante de la sección "A" para la sección "B" el número de lista que tenía en la sección "A" desaparece y se le asignará un número posterior al último estudiante de la lista en la nueva sección.
 
 El procedimiento es similar al proceso de creación de Nómina: Deberá seleccionar la sección a actualizar, el plan de estudios correspondiente y pulsar el botón **"Actualizar Nómina"**.
