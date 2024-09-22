@@ -19,6 +19,10 @@
 * [Crear Nóminas](#crear-nóminas)
 * [Actualizar Nóminas](#actualizar-nóminas)
 * [Descargar Nóminas](#descargar-nóminas)
+* [Menú Administrativo](#menú-administrativo)
+* [Tipo de Consultas Administrativas](#tipo-de-consultas-administrativas)
+
+
 
 ## Módulo Coordinadores:
 Desde este Módulo sólo podrán acceder aquellos usuarios registrados en **SIGMA ESCOLAR** y con las Credenciales de Coordinador. Si fue designado como Coordinador de Año y aún no posee Usuario, contacte con el Subdirector Académico, quien le entregará un Código de Registro.
@@ -326,3 +330,28 @@ Para descargar las Nóminas de su Coordinación debió haberlas creado o actuali
 
 
 [Regresar al Índice](#indice)
+
+<br>
+
+## Menú Administrativo:
+Desde este menú podrá acceder a todos los formatos administrativos relacionados con su Coordinación, por lo que es de suma importancia que realice un proceso minucioso de verificación de cada uno de los expedientes, así como también realice los retiros por sistema, ya que Usted en factor fundamental en la gestión efectiva de su Coordinación y por ende en la gestión institucional. La mayoría de estas consultas administrativas requieren que Usted haya verificado en sistema cada uno de los expedientes de los Estudiantes, ya que al ser impresos deberán arrojar información precisa y veraz. Igualmente debe haber creado y actualizado las nóminas de las secciones que Coordina. Tome sus precauciones.
+
+
+[![menu-adminsitrativo.png](https://i.postimg.cc/rsrDmv21/menu-adminsitrativo.png)](https://postimg.cc/2LCk996y)
+
+
+### Tipo de Consultas Administrativas:
+
+
+[![consultas-administrativas.png](https://i.postimg.cc/T2pHdGhz/consultas-administrativas.png)](https://postimg.cc/z3Yk7sC7)
+
+
+Como puede observar en la imagen, para realizar una consulta administrativa deberá seleccionar el ***Tipo de Consulta Disponible***, el Plan de Estudios asociado a esa consulta y finalmente la sección a la cual desea realizar la Consulta de los formatos administrativos. Como puede notar estas consultas se agrupan por secciones. 
+
+<br>
+
+
+[Regresar al Índice](#indice)
+
+
+
