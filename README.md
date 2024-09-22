@@ -7,7 +7,7 @@
 ## Indice
 * [Acceso al Sistema](#acceso-al-sistema)
 * [Formatos Generados](formatos.md)
-* [Módulo Directivo](directivos.md)
+* [Módulo Directivo](directivo.md)
 * [Módulo Coordinadores](coordinadores.md)
 
 
