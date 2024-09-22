@@ -116,7 +116,7 @@ Se utiliza para corregir cualquier dato que se considere pudiera estar incorrect
 ### Retirar Estudiantes:
 Aplica a aquellos estudiantes que a petición de su representante deban dejar la institución. En este caso, el retiro de cualquier estudiante procede en dos modalidades:
 
-* ***Estudiantes Inscritos para la Escolaridad en Curso***: Aplica a aquellos estudiantes que aún cuando fueron inscritos deben ser retirados del plantel, por lo que deberá realizar este procedimiento administrativo el cual incide en los movimientos estadísticos de la institución.
+* ***Estudiantes Inscritos para la Escolaridad en Curso***: Aplica a aquellos estudiantes que aún cuando fueron inscritos deben ser retirados del plantel, por lo que deberá realizar este procedimiento administrativo el cual incide en los movimientos estadísticos de la institución. Este procedimiento lo realiza el Coordinador(a) en funciones del Año en el cual legalmente está inscrito el Estudiante. Tanto el retiro por sistema como la entrega de la documentación al Representante, la realiza el Coordinador.
 
 <hr>
 
@@ -137,11 +137,11 @@ En todo Retiro Formal es necesario que complete los siguientes datos:
 
 ***Nota: En la sección "Último Año que Cursó para generar Constancia de Buena Conducta", debeá tomar en cuenta el momento académico en que se realiza el retiro. Por ejemplo: Estudiantes que están inscritos pero que no ha iniciado el Primer Momento Pedagógico o éste aún no culmina, deberá tomar el último año cursado por el Estudiante para generar la Constancia de Buena Conducta. Por el contrario, si ya está avanzado o en progreso el Año Escolar en curso, selecciona el Año actual que está cursando dicho estudiante.***
   
-* ***Estudiantes que no Formalizaron Inscripción para la Escolaridad en Curso***: Se procede a realizar el retiro del estudiante, pero este retiro no genera impacto en la estadística. Sin embargo, se deberá realizar el retiro por sistema, para dejar constancia de que le fue entregada la documentación a su representante respectivo, así como también para registros de control interno. Este Formato no genera Constancia de Buena Conducta.
+* ***Estudiantes que no Formalizaron Inscripción para la Escolaridad en Curso***: Se procede a realizar el retiro del estudiante, pero este retiro no genera impacto en la estadística. Sin embargo, se deberá realizar el retiro por sistema, para dejar constancia de que le fue entregada la documentación a su representante respectivo, así como también para registros de control interno. Este procedimiento arroja (02) Formatos de Retiro (original y copia) y (01) constancia de Buena Conducta del último año cursado por el Estudiante.
 
-Al igual que el Retiro Formal deberá llenar los campos: ***Causal de Retiro, Fecha del Retiro y Documentos Entregados al Representante***. No se emite Constancia de Buena Conducta. 
+Al igual que el Retiro Formal deberá llenar los campos: ***Causal de Retiro, Fecha del Retiro y Documentos Entregados al Representante***. 
 
-***Nota:*** Al consultar al estudiante a retirar, se valida la inscripción formal del estudiante. En ambos casos se genera un documento en original y copia.
+***Nota:*** Al consultar al estudiante a retirar, se valida la inscripción formal del estudiante. Muy importante a tomar en cuenta: Como el estudiante no formalizó inscripción, ocurre que la documentación de dicho estudiante reposa en la Coordinación a la cual debió haber sido promovido el estudiante. Sin embargo, en sistema el estudiante estará adscrito a la Coordinación del año en que formalmente quedó inscrito la última escolaridad, por lo que este procedimiento requiere que el Coordinador que tiene el expediente del Estudiante debe entregarlo al Coordinador(a) que legalmente tiene en sistema al estudiante, para que este último realice el procedimiento de retiro y entregue la documentación y los formatos de retiro al Representante.
 
 <br>
 
