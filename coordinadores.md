@@ -342,6 +342,15 @@ Desde este menú podrá acceder a todos los formatos administrativos relacionado
 
 ### Tipo de Consultas Administrativas:
 
+Desde este menú podrá realizar las siguientes consultas:
+
+* Descargar Fichas de Inscripción.
+* Descargar Libros de Vida.
+* Descargar la Data General de su Coordinación en un archivo de Hoja de Cálculo (Excel ó Calc).
+
+
+<br>
+
 
 [![consultas-administrativas.png](https://i.postimg.cc/T2pHdGhz/consultas-administrativas.png)](https://postimg.cc/z3Yk7sC7)
 
