@@ -120,7 +120,7 @@ Se utiliza para corregir cualquier dato que se considere pudiera estar incorrect
 ### Retirar Estudiantes:
 Aplica a aquellos estudiantes que a petición de su representante deban dejar la institución. En este caso, el retiro de cualquier estudiante procede en dos modalidades:
 
-* ***Estudiantes Inscritos para la Escolaridad en Curso***: Aplica a aquellos estudiantes que aún cuando fueron inscritos deben ser retirados del plantel, por lo que deberá realizar este procedimiento administrativo el cual incide en los movimientos estadísticos de la institución. Este procedimiento lo realiza el Coordinador(a) en funciones del Año en el cual legalmente está inscrito el Estudiante. Tanto el retiro por sistema como la entrega de la documentación al Representante, la realiza el Coordinador.
+* ***Estudiantes Inscritos para la Escolaridad en Curso***: Aplica a aquellos estudiantes que aún cuando fueron inscritos deben ser retirados del plantel, por lo que deberá realizar este procedimiento administrativo el cual incide en los movimientos estadísticos de la institución. Lo realiza el Coordinador(a) en funciones del Año en el cual legalmente está inscrito el Estudiante. Tanto el retiro por sistema como la entrega de la documentación al Representante, la realiza el Coordinador.
 
 <hr>
 
@@ -145,7 +145,9 @@ En todo Retiro Formal es necesario que complete los siguientes datos:
 
 Al igual que el Retiro Formal deberá llenar los campos: ***Causal de Retiro, Fecha del Retiro y Documentos Entregados al Representante***. 
 
-***Nota:*** Al consultar al estudiante a retirar, se valida la inscripción formal del estudiante. Muy importante a tomar en cuenta: Como el estudiante no formalizó inscripción, ocurre que la documentación de dicho estudiante reposa en la Coordinación a la cual debió haber sido promovido el estudiante. Sin embargo, en sistema el estudiante estará adscrito a la Coordinación del año en que formalmente quedó inscrito la última escolaridad, por lo que este procedimiento requiere que el Coordinador que tiene el expediente del Estudiante debe entregarlo al Coordinador(a) que legalmente tiene en sistema al estudiante, para que este último realice el procedimiento de retiro y entregue la documentación y los formatos de retiro al Representante.
+***Nota:*** Al consultar al estudiante a retirar, se valida la inscripción formal del estudiante. Muy importante a tomar en cuenta: Como el estudiante no formalizó inscripción, ocurre que **la documentación de dicho estudiante reposa en la Coordinación a la cual debió haber sido promovido**, por lo que el retiro lo ejecutará el Coordinador que posee el expediente. Al culminar el Año Escolar, todos los expedientes cuyos estudiantes no formalizaron inscripción y que tampoco realizaron el retiro, deberán ser devueltos bajo Acta a la Coordinación que inicialmente subió los Documentos, a fin de que resposen dichos expedientes en la Coordinación del último año cursado por el Estudiante.
+
+
 
 <br>
 
