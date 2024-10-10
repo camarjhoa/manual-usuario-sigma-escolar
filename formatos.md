@@ -33,7 +33,9 @@ Genera dos (02) planillas de retiro en original y copia donde se señala la entr
 Cuando se pre-carga en sistema un nuevo estudiante proveniente de otra institución, es necesario generar una Carta de Aceptación donde se evidencia la disponibilidad para recibir a dicho Estudiante. Se imprime un (01) ejemplar de este formato, el cual debe ir firmado y sellado por el Director(a) en funciones.
 
 
+
 [![modelo-carta-aceptacion.jpg](https://i.postimg.cc/jjXfdGjh/modelo-carta-aceptacion.jpg)](https://postimg.cc/xkX86pMk)
+
 
 <hr>
 
